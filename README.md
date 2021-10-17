@@ -35,7 +35,6 @@ The neural network was trained on a data set of 1964925 images and then tested o
 | Learning rate | 0.03 |
 | Epochs | 100 |
 |  Batch Size | 1024 | 
-| Beta| 0.9 |
 | Optimizer| SGD |
 # **Output**
 A plot of losses vs the number of epoch.
