@@ -16,7 +16,7 @@ The neural network was trained on a data set of 1964925 images and then tested o
 
 ***Convolution Layer***
 
-| Layers   | Kernel size | Filters | Maxpool | Padding|
+| Layers   | Kernel size | Filters | Maxpool | stride|
 | -------- | --------    | ------- | ------- | ------ |
 | conv1    | (5,5) | 6 | (2,2)   | 1      |
 | conv2    | (5,5)       | 16       | (2,2)   | 1      |
